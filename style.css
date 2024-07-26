@@ -1,0 +1,15 @@
+/* Add styles here */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  padding: 0px;
+  outline: 0px;
+  margin: 0px;
+  font-family: "Poppins";
+}
+
+.resume {
+    width: 50%;
+    margin: 10px auto;
+
+}
